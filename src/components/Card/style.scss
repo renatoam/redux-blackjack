@@ -1,0 +1,16 @@
+.card {
+  background-color: #ffffff;
+  border-radius: 15px;
+  height: 250px;
+  width: 180px;
+
+  [data-suit="clover"] p,
+  [data-suit="spade"] p{
+    color: #000000;
+  }
+  
+  [data-suit="heart"] p,
+  [data-suit="diamond"] p {
+    color: #db0b0b;
+  }
+}
