@@ -1,8 +1,10 @@
-# Blackjack
+# Projeto Refactoring
+O projeto Refactoring consiste em passar por todos os meus repositórios antigos e refatorar o código existente e finalizar os projetos inacabados.
 
-## Desenvolvimento
+A ideia também é manter a versão antiga em outra branch, assim posso fazer comparações entre eles.
 
-// explicar
+## 11. Blackjack React
+Já há um blackjack no projeto Refactoring, mas aquele é com js puro e oop, esse é com React.
 
 ## Objetivo do jogo
 
